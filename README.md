@@ -13,9 +13,8 @@ I'm a passionate developer, always interested in learning, collaborating, and bu
 
 # GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faten92&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faten92&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Let's Connect
 
